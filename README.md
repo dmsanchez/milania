@@ -7,6 +7,8 @@ Proyecto Final
 
 MATERIA: Temas Avanzados en Ciencias de la Computación - Python
 
+HUBICACION: /Dia3/notebooks/ProyectoFinal_v2
+
 Objetivo del Proyecto: Envío de mensaje de alerta a un determinado número de celular cuando una persona se esté alejando de su centro de trabajo.
 
 Para realizar el proyecto se utilizó un dispositvo movil con Android
